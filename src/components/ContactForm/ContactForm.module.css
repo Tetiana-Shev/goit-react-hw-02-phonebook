@@ -1,8 +1,8 @@
 .contactForm {
     padding: 10px 30px 30px 30px;
-    border: 2px solid rgb(2, 41, 2);
+    border: 2px solid rgba(51, 19, 51, 0.788);
     border-radius: 5px;
-    background-color: rgb(188, 245, 135);
+    background-color: rgba(240, 143, 240, 0.788);
 }
 
 .label {
@@ -20,7 +20,7 @@
     padding: 10px;
     margin: 0 0 20px 0;
     border-radius: 5px;
-    border: 2px solid rgb(2, 41, 2);
+    border: 2px solid rgba(51, 19, 51, 0.788);
 }
 
 .input:hover, .input:focus {
@@ -30,9 +30,9 @@
 .button {
     font-size: 20px;
     padding: 10px;
-    background-color: rgb(226, 240, 230);
+    background-color: rgba(244, 218, 244, 0.788);
     border-radius: 5px;
-    border: 2px solid rgb(2, 41, 2);
+    border: 2px solid rgba(51, 19, 51, 0.788);
 }
 
 .button:hover, .button:focus {

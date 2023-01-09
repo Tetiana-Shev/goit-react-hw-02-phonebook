@@ -2,9 +2,9 @@
     display: block;
     font-size: 20px;
     font-weight: 400;
-    border: 2px solid rgb(2, 41, 2);
+    border: 2px solid rgba(51, 19, 51, 0.788);
     border-radius: 5px;
-    background-color: rgb(188, 245, 135);
+    background-color: rgba(240, 143, 240, 0.788);
     padding: 10px 30px;
 
 }
@@ -16,7 +16,7 @@
     padding: 10px;
     margin: 0 0 20px 0;
     border-radius: 5px;
-    border: 2px solid rgb(2, 41, 2);
+    border: 2px solid rgba(51, 19, 51, 0.788);
 }
 
 .filter:hover, .filter:focus {

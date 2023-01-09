@@ -10,9 +10,9 @@
     font-weight: 700;
     padding: 5px;
     height: 40px;
-    background-color: rgb(226, 240, 230);
+    background-color: rgba(244, 218, 244, 0.788);
     border-radius: 5px;
-    border: 2px solid rgb(2, 41, 2);
+    border: 2px solid rgba(51, 19, 51, 0.788);
 }
 
 .button:hover, .button:focus {

@@ -1,7 +1,7 @@
 .contacts {
     display: block;
-    background-color: rgb(188, 245, 135);
-    border: 2px solid rgb(2, 41, 2);
+    background-color: rgba(240, 143, 240, 0.788);
+    border: 2px solid rgba(51, 19, 51, 0.788);
     border-radius: 5px;
     margin: 0;
     margin-top: 20px;
